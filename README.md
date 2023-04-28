@@ -1,12 +1,12 @@
 # xo
-Final project of ITCS424 Wireless and Mobile Computing
-</br></br>
-Participant: </br>
+<h3>Final project of ITCS424 Wireless and Mobile Computing</h3>
+</br>
+<h4>Participant:</h4> </br>
 6388080 Boonyaporn Kampang </br>
 6388163 Busarin Jensai</br>
 6388194 Pantaree Prasongsuk</br>
 </br></br>
-Objectives of the Project</br>
+<h4>Objectives of the Project</h4></br>
 •	To create a functional application that allow users to play tic-tac-toe in real time.</br>
 •	To implement a notification when the game reach the ends.</br>
 •	To be able to handle invalid user input.</br>
